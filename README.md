@@ -14,7 +14,11 @@ Model selection could be done using packages like pmdarima using tools like Pyth
 The packages that we are using are:
 
 seaborn - Used for improved data visualization and better graphics
+
 pmdarima – Used for model selection in time series forecasting
+
 pandas – This package helps us data handling and data manipulations easy
+
 datetime – Used to handle date and time objects
+
 matplotlib - Used for data visualization and plotting 2D graphics
