@@ -14,7 +14,7 @@ Time series data have trend, seasonality/cyclicality and noise components.
 
 In ARIMA models, one has to decide on the order in such a way that error is reduced.
 
-Model selection could be done using packages like pmdarima using tools like Python and R.
+
 
 
 
