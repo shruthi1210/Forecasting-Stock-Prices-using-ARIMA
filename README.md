@@ -2,7 +2,7 @@
 
 To predict the prices of HCL, I used the ARIMA model. Using a Python tool, we will perform the forecast. In order to fit the model and generate 
 
-predictions for each element on the test set, we divide the training dataset into train and test sets [training (70 % ) and test (30%)].
+predictions for each element on the test set, we divide the training dataset into train and test sets [training (70$) and test (30%)].
 
 Given the reliance on observations from earlier time steps for differencing and the AR model, a rolling forecasting approach is necessary. In 
 
