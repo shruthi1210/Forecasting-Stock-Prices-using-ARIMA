@@ -5,7 +5,7 @@ To predict the prices of HCL, I used the ARIMA model. In order to fit the model 
 
 ARIMA models is one of statistical technique could be used to forecast time series data.In ARIMA models, one has to decide on the order in such a way that error is reduced.
 
-Function:
+Function used:
 
 Auto ARIMA: Automatically discover the optimal order for an ARIMA model.
 The auto arima function returns a fitted ARIMA model after attempting to determine the ARIMA model's most ideal parameters. This function is based on the forecast::auto.arima function that is frequently used in R.
