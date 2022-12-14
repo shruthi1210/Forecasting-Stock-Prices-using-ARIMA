@@ -10,8 +10,6 @@ order to achieve this, we recreate the ARIMA model each time a fresh observation
 
 ARIMA models is one of statistical technique could be used to forecast time series data.
 
-Time series data have trend, seasonality/cyclicality and noise components.
-
 In ARIMA models, one has to decide on the order in such a way that error is reduced.
 
 
